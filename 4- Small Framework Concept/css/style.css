@@ -25,7 +25,7 @@ h2.section-title {
 
 /* Start Header */
 .header {
-    background: url("/imgs/landing.jpg") no-repeat top center;
+    background: url("../imgs/landing.jpg") no-repeat top center;
     min-height: 500px;
     background-size: cover;
     -webkit-background-size: cover;
